@@ -1,66 +1,67 @@
-<h1 align="center">Hi 👋, I'm Upendra Dhami</h1>
-<h3 align="center">A passionate student currently studying Computer Engineering at Farwestern University.</h3>
+<h1 align="center">Hi there, I'm Upendra Dhami 👋</h1>
+<h3 align="center">Computer Engineering Student | Web Development Enthusiast | Code Explorer</h3>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=upendradhami" alt="upendradhami" />
+  <a href="https://github.com/upendradhami">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Frontend+in+Progress...+Backend+Loading+⏳;Breaking+%26+Fixing+Code+Daily;Fun+with+JavaScript+!" alt="Typing SVG" />
   </a>
 </p>
 
-- 🔭 I’m currently working on **JavaScript**
-- 🌱 I’m currently learning **HTML, CSS, and JavaScript**
-- 👯 I’m looking to collaborate on **web development projects**
-- 📫 How to reach me: **upendradhami689@gmail.com**
+---
+
+### 🔍 About Me
+
+- 🎓 Currently pursuing **Computer Engineering** at *Farwestern University*
+- 💻 Interested in **Web Development**, especially Frontend
+- 🌱 Learning **HTML**, **CSS**, and **JavaScript**
+- 🛠️ Working on fun projects with **JavaScript**
+- 🤝 Open to collaborate on **Web Projects** and **Open Source**
+- 📬 Reach me at: **upendradhami689@gmail.com**
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect with Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/upendra-dhamii-9185891b7" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
   <a href="https://www.facebook.com/upendra.dhami.01" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=facebook" height="30" />
   </a>
   <a href="https://www.instagram.com/upendra_dhami01" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="30" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠️ Languages and Tools
+
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,c,cpp,vscode" />
 </p>
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=upendradhami&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=upendradhami&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=upendradhami&show_icons=true&locale=en" alt="GitHub Stats" />
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=upendradhami&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=upendradhami" alt="GitHub Streak" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=upendradhami&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=upendradhami&theme=gruvbox&no-frame=true&column=7&margin-w=10" />
 </p>
