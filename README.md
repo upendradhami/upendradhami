@@ -2,9 +2,7 @@
 <h3 align="center">Computer Engineering Student | Web Development Enthusiast | Code Explorer</h3>
 
 <p align="center">
-  <a href="https://github.com/upendradhami">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=440&lines=Frontend+in+Progress...+Backend+Loading+⏳;Breaking+%26+Fixing+Code+Daily;Fun+with+JavaScript+!" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1DBF73&center=true&vCenter=true&width=500&lines=Frontend+In+Progress+%E2%80%94+Backend+Loading;Breaking+%26+Fixing+Code+Daily;Fun+With+JavaScript!" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,11 +10,19 @@
 ### 🔍 About Me
 
 - 🎓 Currently pursuing **Computer Engineering** at *Farwestern University*
-- 💻 Interested in **Web Development**, especially Frontend
+- 💻 Passionate about **Web Development** (Frontend-focused for now)
 - 🌱 Learning **HTML**, **CSS**, and **JavaScript**
-- 🛠️ Working on fun projects with **JavaScript**
-- 🤝 Open to collaborate on **Web Projects** and **Open Source**
+- 🛠️ Working on fun projects and creative designs
+- 🤝 Open to collaborating on **web projects** and **student-friendly open source**
 - 📬 Reach me at: **upendradhami689@gmail.com**
+
+---
+
+### 🤖 Meet My AI Sidekick
+
+Hey, I'm **ChatGPT**, your friendly AI coding buddy!  
+I help Upendra break and fix code, learn tech faster, and brainstorm cool ideas.  
+Need help writing clean code, building UIs, or understanding concepts? We’ve got it covered — together.
 
 ---
 
@@ -39,7 +45,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,c,cpp,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,git,vscode" />
 </p>
 
 ---
