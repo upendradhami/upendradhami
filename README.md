@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering Student | Web Development Enthusiast | Code Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/demo/?font=Fira+Code&size=22&pause=1000&color=1DBF73&center=true&vCenter=true&width=500&lines=Frontend+In+Progress+%E2%80%94+Backend+Loading;Breaking+%26+Fixing+Code+Daily;Fun+With+JavaScript!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1DBF73&center=true&vCenter=true&width=500&lines=Frontend+In+Progress+%E2%80%94+Backend+Loading;Breaking+%26+Fixing+Code+Daily;Fun+With+JavaScript!" alt="Typing SVG" />
 </p>
 
 ---
