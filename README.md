@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I'm Upendra Dhami 👋</h1>
+# Hi there, I'm Upendra Dhami 👋
+
 <h3 align="center">Computer Engineering Student | Web Development Enthusiast | Code Explorer</h3>
 
 <p align="center">
@@ -16,7 +17,7 @@ I am a passionate **Computer Engineering student** dedicated to exploring the wo
 * 🌱 **Learning Focus:** Building a strong foundation in **HTML**, **CSS**, and **JavaScript**.
 * 🛠️ **Current Goals:** Working on fun projects, refining creative designs, and mastering coding fundamentals.
 * 🤝 **Collaboration:** Open to collaborating on **web projects** and **student-friendly open source** initiatives.
-* 📬 **Reach Me:** **upendradhami689@gmail.com**
+* 📬 **Reach Me:** **[upendradhami689@gmail.com](mailto:upendradhami689@gmail.com)**
 
 ---
 
@@ -30,22 +31,7 @@ Here are the technologies that power my projects and studies:
 
 ---
 
-## 🤖 My Coding Sidekick
-
-I often code with **ChatGPT**, my friendly AI coding companion!
-
-It helps me to:
-* Break down and fix complex code issues.
-* Learn new technical concepts faster.
-* Brainstorm and refine cool project ideas.
-
-We've got writing clean code, building UIs, and understanding technical concepts covered — **together**.
-
----
-
 ## 📈 GitHub Statistics & Achievements
-
-Here are a few snapshots of my coding activity and progress:
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=upendradhami&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -80,5 +66,3 @@ Here are a few snapshots of my coding activity and progress:
     <img src="https://skillicons.dev/icons?i=instagram" height="30" alt="Instagram" />
   </a>
 </p>
-
----
