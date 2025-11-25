@@ -33,9 +33,7 @@ Here are the technologies that power my projects and studies:
 
 ## 📈 GitHub Statistics & Achievements
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=upendradhami&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=upendradhami&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
